@@ -1,1 +1,1 @@
-from nginx
+from rancher/rancher
